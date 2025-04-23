@@ -64,3 +64,11 @@ Or use this link to open the video on YT: [https://youtu.be/aB5X_Zo3m3g](https:/
 3. **Run the Voice Controller**
    ```bash
    python voice_servo_control.py
+
+---
+
+## Contributors
+
+- **Ishgun Lambha**
+- **Kunal Devi**
+- **Simerneet Singh**
