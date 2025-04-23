@@ -9,7 +9,7 @@ Instead of sliding shadow frames, a spinning drum—rebuilt from old 3D‑printe
 3. **Old Age**  
 4. **Death**
 
-![Image of the final setup projecting the old age stage on the screen]('Project Thumbnail.jpeg')
+![Image of the final setup projecting the old age stage on the screen](ProjectThumbnail.jpeg)
 
 A fixed bulb and Fresnel lens cast each frame onto a screen. A motorized Z‑axis platform lifts the drum to select which stage is in view.
 
