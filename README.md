@@ -9,7 +9,18 @@ Instead of sliding shadow frames, a spinning drum—rebuilt from old 3D‑printe
 3. **Old Age**  
 4. **Death**
 
+![Image of the final setup projecting the old age stage on the screen](Project Thumbnail.jpeg)
+
 A fixed bulb and Fresnel lens cast each frame onto a screen. A motorized Z‑axis platform lifts the drum to select which stage is in view.
+
+---
+
+## Installation & Usage
+Watch the video on YouTube🎥 👇👇
+
+[![YouTube video of the installation](YT_Thumbnail.jpeg)](https://youtu.be/aB5X_Zo3m3g)
+
+Or use this link to open the video on YT: [https://youtu.be/aB5X_Zo3m3g](https://youtu.be/aB5X_Zo3m3g)
 
 ---
 
@@ -32,9 +43,10 @@ A fixed bulb and Fresnel lens cast each frame onto a screen. A motorized Z‑axi
 ## Hardware Components
 
 - **Arduino Uno R4 WiFi**  
-- **Reclaimed 3D‑printer Z‑axis parts** (stepper motor, linear rails, limit switches)  
+- **Reclaimed 3D‑printer Z‑axis parts** (linear rails, limit switches, Aluminium extrusions)  
 - **3D‑printed drum mounts, servo mounts, worm and screw drive mechanism & frame brackets**  
 - **Light bulb & Fresnel lens**  
+- **2x Continuous 360 Servo Motors**
 - **USB microphone** & **Mac/PC**  
 
 ---
